@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40018'
     url: http://www.gutenberg.org/2009/agents/40018
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39446#El-derecho-internacional-americanoestudio-doctrinal-y-cr-tico
 gutenberg_issued: '2012-04-13'
 gutenberg_type: Text
 identifiers:
