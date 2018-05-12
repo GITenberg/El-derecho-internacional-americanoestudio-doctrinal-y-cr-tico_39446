@@ -1,0 +1,27 @@
+_repo: El-derecho-internacional-americanoestudio-doctrinal-y-cr-tico_39446
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stoerk, Felix
+    birthdate: 1851
+    deathdate: 1908
+    gutenberg_agent_id: '40018'
+    url: http://www.gutenberg.org/2009/agents/40018
+description: ''
+gutenberg_issued: '2012-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39446'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JX'
+- !lcsh 'Monroe doctrine'
+- !lcsh 'Spanish-American War, 1898'
+title: El derecho internacional americano; estudio doctrinal y crítico
+url: http://www.gutenberg.org/ebooks/39446
